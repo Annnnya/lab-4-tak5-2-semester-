@@ -27,5 +27,5 @@ Class **Enemy** is a class for all monsters in the game. The init takes name, de
 
 
 
-The playing process is launched from the apocalypsis.py module. It creates a number of objets of the classes above and starts a game.
+The playing process is launched from the **apocalypsis.py** module. It creates a number of objets of the classes above and starts a game.
 
