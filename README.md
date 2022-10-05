@@ -1,12 +1,5 @@
 # lab4-tak56-sem2
 
-Шановні асистенти\викладачі,
+OOP terminal game on Python
 
-Слізно прошу вибачення за пізній сабміт гри.
-Я трохи захопилась, тому не встигла здати вчасно.
-Будь ласка, не знижуйте мені оцінку
-
-
-![image](https://user-images.githubusercontent.com/91616531/164092915-95375488-b2e4-4ac8-a99a-e3fe03e758cb.png)
-
-Сподіваюсь, ви мене зрозумієте, коли її побачите)
+All objects are tied to location, locations are linked and player has to clear map from monsters
